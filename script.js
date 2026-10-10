@@ -40,7 +40,6 @@ function addTodo() {
   const dueDate = dateInputElement.value;
 
   todoList.push({
-    name,
     dueDate,
   });
 
